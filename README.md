@@ -26,3 +26,12 @@ On a final note, I would like to touch on what our store’s next options would 
   
 ## Conclusions ## 
 With enough data, the picture continues to become clear. With the limited resources I had, there was more than enough evidence to identify the business and suggest improvements to its model. With more information we could track purchase history and habits, or even personalize the inventory to our top clients’ tastes. Understanding your market at this angle opens up a plethora of new doors, not only increasing market sales, but tailoring an improved experience for the customers. 
+
+
+### Tableau account
+
+https://public.tableau.com/app/profile/anthony.shortt
+
+### LinkedIn
+
+www.linkedin.com/in/anthonyshortt
